@@ -1,7 +1,7 @@
 #include<stdio.h>
 struct book
 {
-char book_name[30];
+char book_name[10];
 char author[30];
 int book_id;
 float price;
